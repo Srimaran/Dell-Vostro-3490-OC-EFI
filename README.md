@@ -3,7 +3,7 @@
 Specifications:
 
 Dell Vostro 3490(Vostro 14 3000)
-CPU: i7-10510U@1.80GHz
+CPU: i7-10510U @ 1.80GHz
 GPU: Intel UHD Graphics 630 + AMD Radeon 610 series(disabled via boot-args)
 RAM:8GB
 SSD: CL1-3D256-Q11 NVMe SSSTC 256GB
