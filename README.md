@@ -1,4 +1,6 @@
-!!!!!!!!!!!!!!!USE THE RELEASE VERSION!!!!!!!!!!!!!!!
+**!!!!!!!!!!!!!!!USE THE RELEASE VERSION!!!!!!!!!!!!!!!**
+
+**!!!!!!!!!!!!!!!Use GenSMBIOS!!!!!!!!!!!!!!!**
 
 Specifications:
 
